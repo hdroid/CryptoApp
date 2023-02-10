@@ -1,3 +1,5 @@
+![](https://repository-images.githubusercontent.com/599831010/1783bab7-355d-40f2-a486-0b124039ac64)
+
 # Jetpack Compose Crypto App
 
 This is an sample Crypto market prices app built with Jetpack Compose
